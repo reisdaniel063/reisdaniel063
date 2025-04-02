@@ -11,6 +11,7 @@ Sou Daniel, programador Front-End, atualmente estou trabalhando projetos com:
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width=90px height=30px/>
 
 ![Daniel Reis Stats](https://github-readme-stats.vercel.app/api?username=reisdaniel063&show_icons=true&theme=transparent)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reisdaniel063)](https://github.com/anuraghazra/github-readme-stats)
 
   
