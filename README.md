@@ -54,14 +54,13 @@ Sou Daniel, Desenvolvedor Front-End e Analista de Sistemas apaixonado por tecnol
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reisdaniel063&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdaniel063&layout=compact&langs_count=7&theme=tokyonight"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=reisdaniel063&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reisdaniel063&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=reisdaniel063&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
