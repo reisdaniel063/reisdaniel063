@@ -53,11 +53,12 @@ Sou Daniel, Desenvolvedor Front-End e Analista de Sistemas apaixonado por tecnol
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reisdaniel063&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdaniel063&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-![Daniel Reis Stats](https://github-readme-stats.vercel.app/api?username=reisdaniel063&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reisdaniel063&layout=compact&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reisdaniel063&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
