@@ -54,9 +54,14 @@ Sou Daniel, Desenvolvedor Front-End e Analista de Sistemas apaixonado por tecnol
 
 <div align="center">
 
-[![Daniel Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=reisdaniel063&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reisdaniel063&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdaniel063&layout=compact&langs_count=7&theme=tokyonight"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reisdaniel063&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=reisdaniel063&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
